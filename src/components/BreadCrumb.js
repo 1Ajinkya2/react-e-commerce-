@@ -14,7 +14,7 @@ const BreadCrumb = (props) => {
         <div className=' relative left-52 bgGrey'>
             <Breadcrumb spacing='8px' separator={<ChevronRightIcon color='black' />}>
                 <BreadcrumbItem>
-                    <Link to='/'>Home</Link>
+                    <Link to='/'>Home client</Link>
                 </BreadcrumbItem>
 
                 <BreadcrumbItem>
